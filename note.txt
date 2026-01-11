@@ -1,2 +1,6 @@
+
 Git Day 1: Learning basics
+Something got added
+
+-GIT uses a staging area
 
