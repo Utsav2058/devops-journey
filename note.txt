@@ -1,5 +1,5 @@
 
-Git Day 1: Learning basics
+Git Day 1: Learning basics (Branch Changes)
 Something got added
 
 -GIT uses a staging area
